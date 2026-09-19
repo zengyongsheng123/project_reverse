@@ -1,0 +1,19 @@
+[
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}",
+ "return function test(tk,fp,ts,ai,algo){var rd='IZ38BgjevRAA';var str=\"\".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);return algo.SHA256(str);}"
+]

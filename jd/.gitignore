@@ -1,0 +1,11 @@
+# 运行产物
+__pycache__/
+*.py[cod]
+logs/
+
+# 抓取结果
+feed_pages.json
+
+# IDE
+.idea/
+.vscode/
